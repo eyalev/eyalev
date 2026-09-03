@@ -1,36 +1,12 @@
-# Hi, I'm Eyal 👋
+I'm a software developer near Lisbon, Portugal. Mostly Python, Rust and TypeScript.
 
-I build developer tools — lately, a lot of tooling around **AI coding agents**: mobile-first UIs for driving Claude Code from a phone, terminal-state daemons, and usage/observability CLIs. Mostly **Rust**, **TypeScript/Node**, and **Python**. Based near Lisbon, Portugal 🇵🇹.
+For the last two years most of what I build is tooling for AI coding agents. The agents run in the terminal, and the terminal is a bad place to watch them from. Hard to see what several agents are doing at once, and close to impossible from a phone. Most of my projects are some angle on that.
 
-## 🤖 AI-agent tooling
+[ttyview](https://github.com/ttyview/ttyview) streams tmux sessions to the browser as a cell grid instead of running a terminal emulator there, which is what makes it usable on a phone. [mobile-cc](https://github.com/eyalev/mobile-cc) is that idea packaged for Claude Code. [cc-usage-json](https://github.com/eyalev/cc-usage-json) turns Claude Code usage into JSON you can script against.
 
-| Project | What it is |
-|---|---|
-| [mobile-cc](https://github.com/eyalev/mobile-cc) | Drive Claude Code from your phone — mobile-first terminal web UI |
-| [ttyview](https://github.com/ttyview/ttyview) | Web terminal viewer for tmux sessions; mobile-first observability for TUI agents (Rust) |
-| [herdr-web](https://github.com/eyalev/herdr-web) | Mobile-first web UI for the herdr agent multiplexer |
-| [cc-usage-json](https://github.com/eyalev/cc-usage-json) | Claude Code usage as clean JSON — OAuth or TUI-scrape (Rust) |
-| [claude-code-manager](https://github.com/eyalev/claude-code-manager) | Manage Claude Code sessions through tmux (Rust) |
-| [mdevex](https://github.com/eyalev/mdevex) | Minimal web-based tmux client with a plugin-first architecture |
+I live in Portugal, so I also ended up writing some language learning tools. [pt-variant](https://github.com/eyalev/pt-variant) tells you whether a YouTube video is European or Brazilian Portuguese.
 
-## 🗣️ Language learning
+The rest here is a mix of small CLI tools. Some maintained, most written once for a specific itch.
 
-| Project | What it is |
-|---|---|
-| [pt-variant](https://github.com/eyalev/pt-variant) | Which Portuguese is this? Classify YouTube videos as pt-PT or pt-BR — CLI, web app & API |
-| [language-learning-resources](https://github.com/eyalev/language-learning-resources) | 800+ curated resources, 30+ languages, as open data (JSON + CSV, CC BY 4.0) |
-| [howtolearnlanguages](https://github.com/eyalev/howtolearnlanguages) | Hand-picked catalogue of the best resources for learning any language |
-
-## 🛠️ CLI tools & other projects
-
-| Project | What it is |
-|---|---|
-| [awesome-reading-lists](https://github.com/eyalev/awesome-reading-lists) | Awesome book reading lists — bookshelves of interesting people ⭐ |
-| [gitbox](https://github.com/eyalev/gitbox) | Sync files across computers with git and GitHub (Rust) |
-| [obsidian-layout-helper](https://github.com/eyalev/obsidian-layout-helper) | Obsidian plugin — save/restore pane layouts |
-| [aicli](https://github.com/eyalev/aicli) | Natural language → shell commands |
-
----
-
-💬 Interested in agent tooling, terminal UIs, or language-learning tech? Feel free to reach out or open an issue on any of these.
-
+Currently looking for remote work, part time or full time.
+eyalev@gmail.com / [LinkedIn](https://www.linkedin.com/in/eyalev/)
