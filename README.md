@@ -9,4 +9,4 @@ I live in Portugal, so I also ended up writing some language learning tools. [pt
 The rest here is a mix of small CLI tools. Some maintained, most written once for a specific itch.
 
 Currently looking for remote work, part time or full time.
-eyalev@gmail.com / [LinkedIn](https://www.linkedin.com/in/eyalev/)
+[eyalev.com](https://eyalev.com) / eyalev@gmail.com / [LinkedIn](https://www.linkedin.com/in/eyalev/)
